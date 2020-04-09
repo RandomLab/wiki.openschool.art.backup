@@ -2,7 +2,7 @@
 title: Intentions
 description: Textes contemporains et historiques sur les idées moteurs de l'open school
 published: true
-date: 2020-04-06T14:28:16.331Z
+date: 2020-04-09T13:41:50.265Z
 tags: 
 ---
 
@@ -52,12 +52,15 @@ Shared Institute x Francisco Laranjo
 Université d'Uppsala x Mahmoud Keshavarz 
 Decolonising Design Group x Ece + Mahmoud + Pedro Oliveira + Luiza Prado 
 **Olivier Lellouche** 
+CRI x Sophie Pene (https://www.cri-paris.org)
 Dirty Art Department x Laure Jaffuel 
 Camondo Méditerranée x Jean-Pierre Blanc ENSAD x Stéphane Degoutin HEAD x Bert Van Dorp RCA x Maki Suzuki ASAD TALM x David Énon 
 ENSBA Lyon x Olivier Lebrun 
 École de La Courneuve x Martin Sauvadet, Antoine Guerbois, Nicolas Crémoux 
 Design Academy Eindhoven x Stéphane Barbier Bouvet 
 Mendrizio x Stefan Zimmerli Stéphane 
+l’École Pro du Centre Pompidou 
+The Cheapest University (http://thecheapestuniversity.org/info/)
 **Le Mercier** 
 The Glasgow School of Art x Thomas Greenough 
 Kunstakademie Stuttgart x Felix Ensslin 
