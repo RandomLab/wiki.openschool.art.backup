@@ -1,8 +1,8 @@
 ---
-title: Magma
+title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-09T14:34:57.529Z
+date: 2020-04-09T14:36:23.039Z
 tags: 
 ---
 
