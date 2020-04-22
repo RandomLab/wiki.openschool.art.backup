@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-22T20:52:09.763Z
+date: 2020-04-22T21:01:28.323Z
 tags: 
 ---
 
@@ -37,9 +37,11 @@ https://www.diggers.org/kaliflower/volume_1.htm
 - L'ecole pirate https://www.arteradio.com/son/615805/l_ecole_pirate_1
 - 1989 : le rap débarque à la fac https://www.youtube.com/watch?v=qqAz7tEvd5Y
 - Dirty art departement http://dirtyartdepartment.com/about/
+- Studio for Immediate Spaces https://immediatespaces.nl/
 - La Ruche https://fr.wikipedia.org/wiki/La_Ruche_(%C3%A9cole)
 - Trojan Horse https://trojanhorse.fi/
 - Critique des summershool https://modesofcriticism.org/design-summer-school/
+
 
 2020 03 25 - RÉF 03
 - Ivan Illich « une société sans école » http://www.education-authentique.org/uploads/PDF-DOC/ISE_Societe_sans_ecole.pdf
