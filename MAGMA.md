@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-22T21:02:35.030Z
+date: 2020-04-22T21:11:04.944Z
 tags: 
 ---
 
@@ -41,6 +41,9 @@ https://www.diggers.org/kaliflower/volume_1.htm
 - La Ruche https://fr.wikipedia.org/wiki/La_Ruche_(%C3%A9cole)
 - Trojan Horse https://trojanhorse.fi/
 - Critique des summershool https://modesofcriticism.org/design-summer-school/
+- https://www.hacking-social.com/2019/07/17/se-demotiver-hacker-le-monde-du-travail-desobeir/
+- The Big Rock Candy Mountain https://www.youtube.com/watch?v=JqowmHgxVJQ
+- Architektur für Kinder The Playground Project http://architekturfuerkinder.ch/
 
 
 2020 03 25 - RÉF 03
@@ -49,7 +52,7 @@ https://www.diggers.org/kaliflower/volume_1.htm
 - Global Tools http://saltonline.org/media/files/globaltools_scrd.pdf
 - Sottsass dans Casabella :"Il pianeta como festival" http://socks-studio.com/2011/09/08/ettore-sottsass-jr-the-planet-as-a-festival/
 - Le bus magique https://www.dailymotion.com/video/xq0ebp
-
+- espace numérique http://senseofpromise.com/self/ et https://mntre.com/
 - chichilianne: le loup, l'eau et les communs de Cécile Fauvel et Franck Leard https://www.369editions.com/chichilianne-le-loup-leau-et-les-communs/
 - Dogville de Lars Von Trier 
 - Solaris de Andreï Tarkovski
