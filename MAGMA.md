@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-22T21:31:16.559Z
+date: 2020-04-22T21:35:48.218Z
 tags: 
 ---
 
@@ -30,7 +30,6 @@ https://www.diggers.org/kaliflower/volume_1.htm
 2020 04 09 - PRÉ 02 - MAGMA HORIZON 01
 ![sté_magma_01_wiki.jpg](/image/sté_magma_01_wiki.jpg)
 
-
 2020 04 08 - RÉF 04
 - hackersanddesigners https://hackersanddesigners.nl/s/Summer_Academy_2019/p/HDSA2019_Public_Program
 - The Cheapest University http://thecheapestuniversity.org/info/
@@ -48,8 +47,6 @@ https://www.diggers.org/kaliflower/volume_1.htm
 - Fahrenheit 451 de Truffaut
 - Sébastien Pluot Parasite, dans l’intervalle http://f-u-t-u-r-e.org/r/08_Sebastien-Pluot_Parasite-dans-lintervalle_FR.md
 - Des espaces autres de Michel Foucault https://historiacultural.mpbnet.com.br/pos-modernismo/Des_espaces_autres.pdf
-
-
 
 2020 03 25 - RÉF 03
 - Ivan Illich « une société sans école » http://www.education-authentique.org/uploads/PDF-DOC/ISE_Societe_sans_ecole.pdf
