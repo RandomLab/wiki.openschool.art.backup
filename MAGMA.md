@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-22T19:40:55.151Z
+date: 2020-04-22T20:24:07.828Z
 tags: 
 ---
 
@@ -25,28 +25,27 @@ AAAA MM JJ - ABC ## - TITRE
 2020 04 09 - PRÉ 02 - MAGMA HORIZON 01
 ![sté_magma_01_wiki.jpg](/image/sté_magma_01_wiki.jpg)
 
-
-D - RÉFÉRENCES
-
-PÉDAGOGIES ALTERNATIVES
-
-- Ivan Illich « une société sans école » http://www.education-authentique.org/uploads/PDF-DOC/ISE_Societe_sans_ecole.pdf
-- Jacques Rancière - Entretien : Le maître ignorant https://www.youtube.com/watch?v=3lCVwJqJVP4&t=310s
-- 1989 : le rap débarque à la fac https://www.youtube.com/watch?v=qqAz7tEvd5Y
+2020 04 08 - RÉF 01 -
 - hackersanddesigners https://hackersanddesigners.nl/s/Summer_Academy_2019/p/HDSA2019_Public_Program
 - The Cheapest University http://thecheapestuniversity.org/info/
-- Global Tools http://saltonline.org/media/files/globaltools_scrd.pdf
 - L'ecole pirate https://www.arteradio.com/son/615805/l_ecole_pirate_1
+- 1989 : le rap débarque à la fac https://www.youtube.com/watch?v=qqAz7tEvd5Y
 - Dirty art departement http://dirtyartdepartment.com/about/
 - La Ruche https://fr.wikipedia.org/wiki/La_Ruche_(%C3%A9cole)
 - Trojan Horse https://trojanhorse.fi/
 - Critique des summershool https://modesofcriticism.org/design-summer-school/
 
-FICTION 
-
+2020 03 25 - RÉF 00 - 
+- Ivan Illich « une société sans école » http://www.education-authentique.org/uploads/PDF-DOC/ISE_Societe_sans_ecole.pdf
+- Jacques Rancière - Entretien : Le maître ignorant https://www.youtube.com/watch?v=3lCVwJqJVP4&t=310s
+- Global Tools http://saltonline.org/media/files/globaltools_scrd.pdf
 - Sottsass dans Casabella :"Il pianeta como festival" http://socks-studio.com/2011/09/08/ettore-sottsass-jr-the-planet-as-a-festival/
-- Solaris de Andreï Tarkovski
 - Le bus magique https://www.dailymotion.com/video/xq0ebp
+
+- chichilianne: le loup, l'eau et les communs de Cécile Fauvel et Franck Leard https://www.369editions.com/chichilianne-le-loup-leau-et-les-communs/
+- Dogville de Lars Von Trier 
+- Solaris de Andreï Tarkovski
+- Synecdoche, New York de Charlie Kaufamn
 
 
 2020 03 16 - WOR 01 - MAGMA 01
@@ -59,6 +58,7 @@ Ce workshop proposé à l’ensemble de la communauté ayant une activité au se
 ![bid_2021_-_pedagogia_ok.jpg](/bid_2021_-_pedagogia_ok.jpg)
 ![pedagogia_01_2.jpg](/pedagogia_01_2.jpg)
 ![plan_pedagogia.jpg](/plan_pedagogia.jpg)
+
 
 
 (<>..<>) ♥
