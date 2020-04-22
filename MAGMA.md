@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-22T21:16:51.230Z
+date: 2020-04-22T21:20:25.501Z
 tags: 
 ---
 
@@ -46,7 +46,7 @@ https://www.diggers.org/kaliflower/volume_1.htm
 - Architektur für Kinder The Playground Project http://architekturfuerkinder.ch/
 - L’art de l’aire de jeux de Palle Nielsen et ses modèles https://journals.openedition.org/marges/1264
 - Fahrenheit 451 de Truffaut
-- 
+
 
 2020 03 25 - RÉF 03
 - Ivan Illich « une société sans école » http://www.education-authentique.org/uploads/PDF-DOC/ISE_Societe_sans_ecole.pdf
