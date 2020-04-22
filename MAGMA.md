@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-22T21:20:25.501Z
+date: 2020-04-22T21:31:16.559Z
 tags: 
 ---
 
@@ -46,6 +46,9 @@ https://www.diggers.org/kaliflower/volume_1.htm
 - Architektur für Kinder The Playground Project http://architekturfuerkinder.ch/
 - L’art de l’aire de jeux de Palle Nielsen et ses modèles https://journals.openedition.org/marges/1264
 - Fahrenheit 451 de Truffaut
+- Sébastien Pluot Parasite, dans l’intervalle http://f-u-t-u-r-e.org/r/08_Sebastien-Pluot_Parasite-dans-lintervalle_FR.md
+- Des espaces autres de Michel Foucault https://historiacultural.mpbnet.com.br/pos-modernismo/Des_espaces_autres.pdf
+
 
 
 2020 03 25 - RÉF 03
