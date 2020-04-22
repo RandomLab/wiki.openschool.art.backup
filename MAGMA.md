@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-22T17:51:47.477Z
+date: 2020-04-22T18:07:16.644Z
 tags: 
 ---
 
@@ -38,9 +38,12 @@ PÉDAGOGIES ALTERNATIVES
 - The Cheapest University http://thecheapestuniversity.org/info/
 - Global Tools http://saltonline.org/media/files/globaltools_scrd.pdf
 - L'ecole pirate https://www.arteradio.com/son/615805/l_ecole_pirate_1
-- Durty art departement http://dirtyartdepartment.com/about/
+- Dirty art departement http://dirtyartdepartment.com/about/
 - La Ruche https://fr.wikipedia.org/wiki/La_Ruche_(%C3%A9cole)
-- 
+- Trojan Horse https://trojanhorse.fi/
+- Critique des summershool https://modesofcriticism.org/design-summer-school/
+
+FICTION 
 
 
 
