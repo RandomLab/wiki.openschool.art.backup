@@ -2,13 +2,11 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-22T19:20:45.384Z
+date: 2020-04-22T19:23:36.766Z
 tags: 
 ---
 
-MAGMA ARCHIVE
-
-L'ENSEMBLE DES NOTES SONT CONSERVÉES ICI : https://pad.hadoly.fr/p/MAGMA_Notes
+MAGMA JOURNAL
 
 PRÉ : PRÉSENTATIONS
 TEX : TEXTES
@@ -17,6 +15,11 @@ WOR : WORKSHOPS
 INV : INVITÉ.E.S
 PRO : PROJET
 PLA : PLANS
+
+NOT : NOTES (https://pad.hadoly.fr/p/MAGMA_Notes)
+
+
+AAAA MM JJ - ABC ## - TITRE
 
 
 2020 04 09 - PRÉ 02 - MAGMA HORIZON 01
@@ -46,7 +49,7 @@ FICTION
 - Le bus magique https://www.dailymotion.com/video/xq0ebp
 
 
-2020 03 16 - WOR 01 - MAGMA - 
+2020 03 16 - WOR 01 - MAGMA 01
 WORKSHOP ANNULÉ (DEVRA PRENDRE UNE AUTRE FORME)
 Ce workshop proposé à l’ensemble de la communauté ayant une activité au sein de l’EPCC (étudiant•e•s, enseignant•e•s, chercheu•ses•rs, personnel technique et administratif) dans le but de questionner ce qu’est une école, sa ou ses pédagogies, son ancrage à une architecture et sa localité, ses ponts, ses croisements, ses usages, ses limites. Cette première étape aura pour but de cartographier les parcours de celles et ceux qui la traverse et de définir ce qui pourrait être la géodésie de l’école de demain en s’appuyant sur le livre de Jacques Rancière en interrogeant les notions de verticalité dans l’enseignement, de liberté, d’égalité et d’émancipation.
 
