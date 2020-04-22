@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-22T21:01:28.323Z
+date: 2020-04-22T21:02:35.030Z
 tags: 
 ---
 
@@ -54,6 +54,7 @@ https://www.diggers.org/kaliflower/volume_1.htm
 - Dogville de Lars Von Trier 
 - Solaris de Andreï Tarkovski
 - Synecdoche, New York de Charlie Kaufamn
+- Fight Club de David Fincher
 
 2020 03 25 - NOT 00 - TEAM MAGMA
 ![capture_d’écran_2020-03-25_à_10.32.22.png](/capture_d’écran_2020-03-25_à_10.32.22.png)
