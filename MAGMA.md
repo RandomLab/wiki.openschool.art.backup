@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-22T18:07:16.644Z
+date: 2020-04-22T18:13:18.217Z
 tags: 
 ---
 
@@ -43,8 +43,13 @@ PÉDAGOGIES ALTERNATIVES
 - Trojan Horse https://trojanhorse.fi/
 - Critique des summershool https://modesofcriticism.org/design-summer-school/
 
+
 FICTION 
 
+- Sottsass dans Casabella :"Il pianeta como festival" http://socks-studio.com/2011/09/08/ettore-sottsass-jr-the-planet-as-a-festival/
+- Solaris de Andreï Tarkovski
+- Le bus magique https://www.dailymotion.com/video/xq0ebp
+gk;u
 
 
 
