@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-22T21:35:48.218Z
+date: 2020-04-23T08:14:34.616Z
 tags: 
 ---
 
@@ -21,6 +21,9 @@ NOT : NOTES (https://pad.hadoly.fr/p/MAGMA_Notes)
 AAAA MM JJ - ABC ## - TITRE
 
 (<>..<>) ♥
+
+2020 04 23 - NOT 01 - SOPHIE PÈNE : CRI & ESADSE 
+https://docs.google.com/document/d/1Pa-GdiJLcWRpt9SbdWUKngKexMsL-CEeAawMuM5uaOM/edit?ts=5ea14b3f
 
 2020 04 - RÉF 05 - KALI FLOWER COMMUNE
 https://en.wikipedia.org/wiki/Kaliflower_Commune
