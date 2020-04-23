@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-23T08:14:34.616Z
+date: 2020-04-23T08:32:18.908Z
 tags: 
 ---
 
@@ -22,8 +22,12 @@ AAAA MM JJ - ABC ## - TITRE
 
 (<>..<>) ♥
 
-2020 04 23 - NOT 01 - SOPHIE PÈNE : CRI & ESADSE 
+2020 04 23 - NOT 02 - MAIL D'ISABELLE VÉRILHAC
+POSSIBILITÉ DE PARTENARIAT AVEC LE PÔLE DE COMPÉTITIVITÉ "CIMES" X MATÉRIAUTHÈQUE
+
+2020 04 23 - NOT 01 - MAIL DE SOPHIE PÈNE : CRI & ESADSE 
 https://docs.google.com/document/d/1Pa-GdiJLcWRpt9SbdWUKngKexMsL-CEeAawMuM5uaOM/edit?ts=5ea14b3f
+https://docs.google.com/presentation/d/1TYdHOeiPcPrQ4R25wKsCmhAq2zsHheN8BBAySX59JV0/edit?ts=5ea15256#slide=id.g74d4f73f60_0_0
 
 2020 04 - RÉF 05 - KALI FLOWER COMMUNE
 https://en.wikipedia.org/wiki/Kaliflower_Commune
