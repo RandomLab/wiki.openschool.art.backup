@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-23T08:32:27.276Z
+date: 2020-04-23T08:57:34.851Z
 tags: 
 ---
 
@@ -22,21 +22,32 @@ AAAA MM JJ - ABC ## - TITRE
 
 (<>..<>) ♥
 
+
+---
+
 2020 04 23 - NOT 02 - MAIL D'ISABELLE VÉRILHAC
 POSSIBILITÉ DE PARTENARIAT AVEC LE PÔLE DE COMPÉTITIVITÉ "CIMES" X MATÉRIAUTHÈQUE
+
+---
 
 2020 04 23 - NOT 01 - MAIL DE SOPHIE PÈNE : CRI & ESADSE 
 https://docs.google.com/document/d/1Pa-GdiJLcWRpt9SbdWUKngKexMsL-CEeAawMuM5uaOM/edit?ts=5ea14b3f
 &
 https://docs.google.com/presentation/d/1TYdHOeiPcPrQ4R25wKsCmhAq2zsHheN8BBAySX59JV0/edit?ts=5ea15256#slide=id.g74d4f73f60_0_0
 
+---
+
 2020 04 - RÉF 05 - KALI FLOWER COMMUNE
 https://en.wikipedia.org/wiki/Kaliflower_Commune
 https://www.diggers.org/kaliflower/volume_1.htm
 ![kf0142_1000hq.jpg](/kf0142_1000hq.jpg)
 
+---
+
 2020 04 09 - PRÉ 02 - MAGMA HORIZON 01
 ![sté_magma_01_wiki.jpg](/image/sté_magma_01_wiki.jpg)
+
+---
 
 2020 04 08 - RÉF 04
 - hackersanddesigners https://hackersanddesigners.nl/s/Summer_Academy_2019/p/HDSA2019_Public_Program
@@ -69,28 +80,42 @@ https://www.diggers.org/kaliflower/volume_1.htm
 - Synecdoche, New York de Charlie Kaufamn
 - Fight Club de David Fincher
 
+---
+
 2020 03 25 - NOT 00 - TEAM MAGMA
 ![capture_d’écran_2020-03-25_à_10.32.22.png](/capture_d’écran_2020-03-25_à_10.32.22.png)
+
+---
 
 2020 03 - RÉF 02 - PETER MÄRKLI, ARCHITECTE
 DOCUMENTAIRE : Architecture de l’infini, Christoph Schaub, 2019
 ![capture_d’écran_2020-03-24_à_21.08.34_pm1.png](/capture_d’écran_2020-03-24_à_21.08.34_pm1.png)
 ![capture_d’écran_2020-03-24_à_21.08.40_pm2.png](/capture_d’écran_2020-03-24_à_21.08.40_pm2.png)
 
+---
+
 2020 03 16 - WOR 01 - MAGMA 01
 WORKSHOP ANNULÉ (DEVRA PRENDRE UNE AUTRE FORME)
 Ce workshop proposé à l’ensemble de la communauté ayant une activité au sein de l’EPCC (étudiant•e•s, enseignant•e•s, chercheu•ses•rs, personnel technique et administratif) dans le but de questionner ce qu’est une école, sa ou ses pédagogies, son ancrage à une architecture et sa localité, ses ponts, ses croisements, ses usages, ses limites. Cette première étape aura pour but de cartographier les parcours de celles et ceux qui la traverse et de définir ce qui pourrait être la géodésie de l’école de demain en s’appuyant sur le livre de Jacques Rancière en interrogeant les notions de verticalité dans l’enseignement, de liberté, d’égalité et d’émancipation.
 
+---
+
 2020 03 - RÉF 01 - JACQUES RANCIÈRE
 ![rancière.jpg](/rancière.jpg)
+
+---
 
 2020 01 - PRÉ 01 - MAGMA HORIZON 00
 ![bid_2021_-_pedagogia_ok.jpg](/bid_2021_-_pedagogia_ok.jpg)
 ![pedagogia_01_2.jpg](/pedagogia_01_2.jpg)
 ![plan_pedagogia.jpg](/plan_pedagogia.jpg)
 
+---
+
 2020 03 - RÉF 00 - CHAND BAORI, RAJASTHAN, INDE
 UNE ÉCOLE COMME UN JEU VIDÉO
 ![chand_baori.jpg](/chand_baori.jpg)
 
+
+---
 (<>..<>) ♥
