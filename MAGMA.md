@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-24T13:00:05.069Z
+date: 2020-04-24T13:21:03.224Z
 tags: 
 ---
 
@@ -26,6 +26,8 @@ AAAA MM JJ - ABC ## - TITRE
 ---
 
 2020 04 23 - RÉF 06 - LIVRAISON X BAUHAUS
+![oliver_1.jpg](/oliver_1.jpg)
+![oliver_2.jpg](/oliver_2.jpg)
 
 ---
 2020 04 23 - NOT 02 - MAIL D'ISABELLE VÉRILHAC
