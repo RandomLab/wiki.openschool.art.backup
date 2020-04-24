@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-23T08:57:34.851Z
+date: 2020-04-24T12:59:40.246Z
 tags: 
 ---
 
@@ -25,6 +25,10 @@ AAAA MM JJ - ABC ## - TITRE
 
 ---
 
+2020 04 23 - RÉF 06 - LIVRAISON X BAUHAUS
+![img_2349.jpg](/img_2349.jpg)
+![img_2348.jpg](/img_2348.jpg)
+---
 2020 04 23 - NOT 02 - MAIL D'ISABELLE VÉRILHAC
 POSSIBILITÉ DE PARTENARIAT AVEC LE PÔLE DE COMPÉTITIVITÉ "CIMES" X MATÉRIAUTHÈQUE
 
