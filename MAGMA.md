@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-24T13:22:34.114Z
+date: 2020-04-24T13:26:31.664Z
 tags: 
 ---
 
@@ -25,17 +25,23 @@ AAAA MM JJ - ABC ## - TITRE
 
 ---
 
-2020 04 23 - RÉF 06 - LIVRAISON X BAUHAUS
+2020 04 24 - RÉF 06 - LIVRAISON X BAUHAUS 
 ![oliver_1.jpg](/oliver_1.jpg)
 ![oliver_2.jpg](/oliver_2.jpg)
 
 ---
+
+2020 04 23 - NOT 03 - STÉPHANE LE MERCIER 
+![carnet.jpeg](/carnet.jpeg)
+ 
+---
+
 2020 04 23 - NOT 02 - MAIL D'ISABELLE VÉRILHAC
 POSSIBILITÉ DE PARTENARIAT AVEC LE PÔLE DE COMPÉTITIVITÉ "CIMES" X MATÉRIAUTHÈQUE
 
 ---
 
-2020 04 23 - NOT 01 - MAIL DE SOPHIE PÈNE : CRI & ESADSE 
+2020 04 23 - PRÉ 03 - SOPHIE PÈNE : CRI & ESADSE 
 https://docs.google.com/document/d/1Pa-GdiJLcWRpt9SbdWUKngKexMsL-CEeAawMuM5uaOM/edit?ts=5ea14b3f
 &
 https://docs.google.com/presentation/d/1TYdHOeiPcPrQ4R25wKsCmhAq2zsHheN8BBAySX59JV0/edit?ts=5ea15256#slide=id.g74d4f73f60_0_0
