@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-24T13:26:31.664Z
+date: 2020-04-24T13:28:34.729Z
 tags: 
 ---
 
@@ -28,6 +28,7 @@ AAAA MM JJ - ABC ## - TITRE
 2020 04 24 - RÉF 06 - LIVRAISON X BAUHAUS 
 ![oliver_1.jpg](/oliver_1.jpg)
 ![oliver_2.jpg](/oliver_2.jpg)
+![bauhaus_diagram.jpg](/bauhaus_diagram.jpg)
 
 ---
 
