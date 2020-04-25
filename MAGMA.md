@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-24T13:28:34.729Z
+date: 2020-04-25T13:43:15.982Z
 tags: 
 ---
 
@@ -22,6 +22,14 @@ AAAA MM JJ - ABC ## - TITRE
 
 (<>..<>) ♥
 
+
+---
+
+2020 04 25 - RÉF 07 - BETWEEN CHAIRS, DESIGN PEDAGOGIES IN TRANSCULTURAL DIALOGUE
+BAUHAUS TASCHENBUCH 22, 2018
+![01_0.jpg](/01_0.jpg)
+![01_2.jpg](/01_2.jpg)
+![01_3.jpg](/01_3.jpg)
 
 ---
 
