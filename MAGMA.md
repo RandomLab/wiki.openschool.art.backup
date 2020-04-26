@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-25T13:43:15.982Z
+date: 2020-04-26T07:04:17.604Z
 tags: 
 ---
 
@@ -24,6 +24,17 @@ AAAA MM JJ - ABC ## - TITRE
 
 
 ---
+
+2020 04 26 - RÉF 08 - THE WIRE
+S01E03, "THE BUYS", 2002
+https://www.youtube.com/watch?v=ztc7o0NzFrE
+&
+S03E01, "TIME AFTER TIME", 2004
+https://www.youtube.com/watch?v=BPS9YKGaKQE&t=111s
+![wire_chess.jpg](/wire_chess.jpg)
+
+---
+
 
 2020 04 25 - RÉF 07 - BETWEEN CHAIRS, DESIGN PEDAGOGIES IN TRANSCULTURAL DIALOGUE
 BAUHAUS TASCHENBUCH 22, 2018
