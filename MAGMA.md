@@ -2,9 +2,12 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-04-26T07:04:17.604Z
+date: 2020-05-01T07:27:44.746Z
 tags: 
 ---
+
+## MAGMA
+[TO LA FORNA -->](/MAGMA/LAFORNA)
 
 MAGMA JOURNAL
 
