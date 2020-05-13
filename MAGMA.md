@@ -2,7 +2,7 @@
 title: MAGMA
 description: Workshop espace
 published: true
-date: 2020-05-01T07:36:27.877Z
+date: 2020-05-13T20:07:48.775Z
 tags: 
 ---
 
@@ -25,7 +25,17 @@ AAAA MM JJ - ABC ## - TITRE
 [TO 🍴LA FORNA 🔥 -->](/MAGMA/LAFORNA)
 
 ---
+2020 05 13 - RÉF 10 - INHABITING A MAP (TKT)
+https://zkm.de/en/inhabiting-a-map
+![neural-pop-gamochonia07.jpg](/neural-pop-gamochonia07.jpg)
 
+---
+2020 05 13 - RÉF 09 - TRAJECTOIRES DE LA SONDE VOYAGER I & II
+![geometry-of-gravity-assist-flyby.png](/geometry-of-gravity-assist-flyby.png)
+![voyager_1_saturn_encounter_trajectory.png](/voyager_1_saturn_encounter_trajectory.png)
+![voyager_2_saturn_encounter_trajectory.png](/voyager_2_saturn_encounter_trajectory.png)
+
+---
 2020 04 26 - RÉF 08 - THE WIRE
 S01E03, "THE BUYS", 2002
 https://www.youtube.com/watch?v=ztc7o0NzFrE
