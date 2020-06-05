@@ -2,11 +2,13 @@
 title: Ressources
 description: 
 published: true
-date: 2020-06-05T08:26:08.769Z
+date: 2020-06-05T08:28:52.684Z
 tags: 
 ---
 
 # Ressources
 
-## Laurence Rassel
-https://transmediale.de/content/creating-commons-affects-collectives-aesthetics-1
+## Laurence Rassel
+
+[Table ronde à Transmediale](https://transmediale.de/content/creating-commons-affects-collectives-aesthetics-1)
+[CE QUE LAURENCE RASSEL NOUS FAIT FAIRE](http://www.paraguaypress.com/publications/1697/)
