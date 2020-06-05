@@ -2,7 +2,7 @@
 title: Ressources
 description: 
 published: true
-date: 2020-06-05T08:36:30.082Z
+date: 2020-06-05T08:36:43.633Z
 tags: 
 ---
 
@@ -16,4 +16,4 @@ tags:
 
 ## Outils
 ### Prise de notes
-[éditeur collaboratif markdown](https://demo.codimd.org/)
+[CodiMD éditeur collaboratif markdown](https://demo.codimd.org/)
